@@ -18,11 +18,11 @@ public class Student
     /**
      * Create a new student with a given name and ID number.
      */
-    public Student(String fullName, String studentID)
+    public Student(String fullName, String studentID, int studentCredits)
     {
         name = fullName;
         id = studentID;
-        credits = 0;
+        credits = studentCredits;
     }
 
     /**
@@ -82,4 +82,31 @@ public class Student
     {
         System.out.println(name + ", student ID: " + id + ", credits: " + credits);
     }
+    
+    /**
+     * Method send return void
+     */
+    public void send(String noValue) 
+    {
+        return;
+    }
+    
+    /**
+     * Method avarage returns int
+     */
+    public int avarage(int avarage) 
+    {
+        return avarage;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 }

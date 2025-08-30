@@ -16,3 +16,18 @@ some simple code. See chapters one and three of the book.
 To use this project, create some Student objects, then create a LabClass object.
 Add the students to the class using the "enrolStudent" method. Print a class
 list.
+
+
+My explanations: 
+By calling getName() the system prompts you the names of the students.
+
+31. What are the types of the following values?
+Int 0
+String “hello”
+Int 101
+Int -1
+Boolean true
+String “33”
+Float 3.1415
+
+Bullet 36. An object cannot have several classes. Each object is an instance of one specific class.
