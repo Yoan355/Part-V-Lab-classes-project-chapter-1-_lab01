@@ -21,6 +21,9 @@ list.
 My explanations: 
 By calling getName() the system prompts you the names of the students.
 
+24. Call the numberOfStudents method of that class. What does it do?
+    By calling this method it returns number of students enrolled in the lab class.
+
 31. What are the types of the following values?
 Int 0
 String “hello”
